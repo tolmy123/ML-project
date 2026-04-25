@@ -1,0 +1,11 @@
+numpy
+pandas
+colored
+seaborn
+transformers
+matplotlib
+tqdm
+scipy
+torch
+nltk
+datasets==3.6
